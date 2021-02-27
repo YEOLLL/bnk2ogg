@@ -1,2 +1,3 @@
-output/* 
-BNKs/*
+/output/* 
+!/output/.keep
+/BNKs/*
