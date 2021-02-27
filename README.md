@@ -9,7 +9,13 @@
 
 ### 使用方法
 
-将待解包bnk文件放入`BNKs`文件夹中，执行fish脚本
+安装[quickbms](https://aluigi.altervista.org/quickbms.htm)并配置环境
 
-结果会输出在output文件夹中，批量任务会自动创建文件夹将结果分类
+将待解包bnk文件(可批量)放入`BNKs`文件夹中
+
+执行fish脚本
+
+结果将输出在output文件夹中
+
+`bnkextr_decoding`与`quickbms_decoding`是过程文件夹，无需理会，但不能删除
 
